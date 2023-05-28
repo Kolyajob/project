@@ -18,5 +18,7 @@ console.log(obj);
 {
     let result = 50
 }
-
+8888
 console.log(result);
+
+lll

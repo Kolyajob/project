@@ -13,3 +13,6 @@ answer[1] = prompt('gav');
 answer[3] = prompt('da');
 
 document.white(answer);
+
+const category = 'toys';
+console.log(`https://sss.com/${category}/5`)
